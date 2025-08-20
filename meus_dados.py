@@ -1,5 +1,5 @@
 nome = "Vinicius"
-idade = 22
+idade = 3050
 profissao = "Analista do SGQ"
 
 print("Nome:", nome)
